@@ -1,0 +1,14 @@
+# Site settings
+title: Xiaobo's Blog
+email: kfihihc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm Xiaobo, Maker and open source fans, live in China. 
+  Now, I'm work at Seeedstudio, a open source hardware company. 
+  This blog will focus on open source hardware and also will share what I make. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.yuzhe.me" # the base hostname & protocol for your site
+twitter_username: kfihihc
+github_username:  kfihihc
+
+# Build settings
+markdown: kramdown
